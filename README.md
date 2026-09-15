@@ -1,0 +1,1 @@
+TravelMate.ai — AI-powered smart travel companion for exploring India. Plan personalized trips, manage budgets, discover destinations, find hotels & tea points, optimize routes, check weather, access safety tools, and get AI voice assistance.
